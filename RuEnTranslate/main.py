@@ -3,7 +3,7 @@ from aiogram.utils import executor
 
 from translater import RuEnTranslater
 
-TOKEN = '5874236699:AAH2QSgepLBN5J6NuVIcHccXbMddEJU6EBU'
+TOKEN = ''
 bot = Bot(TOKEN)
 
 dp = Dispatcher(bot)
